@@ -5,7 +5,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Splunk Homelab </b>
-  - [Splunk Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Splunk Homelab](https://github.com/Lynnk1/Splunk)
 
  <h2>📑 Certifications</h2>
 
