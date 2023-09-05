@@ -13,7 +13,6 @@
 - <h4>[CompTIA Security+ SY0-601]</h4>
 - <h4>[AZ-900]</h4>
 - <h4>[Splunk Core Certified Power User]</h4>
-- <h4></h4>
 
 
 [linkedin]:https://www.linkedin/SNxLynnk
