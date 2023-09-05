@@ -13,13 +13,13 @@
 - <h4>[CompTIA Security+ SY0-601]</h4>
 - <h4>[AZ-900]</h4>
 - <h4>[Splunk Core Certified Power User]</h4>
-- <h4>(Working on CompTIA CySa+)</h4>
+- <h4></h4>
 
 
 [linkedin]:https://www.linkedin/SNxLynnk
 
 <h2> 🎮 Hobbies </h2>
-<h4> 🔭 I’m currently working on - </h4>
+<h4> 🔭 I’m currently working on CompTIA CySA+ - </h4>
 <h4>🌱 I’m currently learning - Splunk! </h4>
 <h4>⚡ Fun fact: I am a huge gamer and I love working out. Doing the best I can to balance between work, studying, gaming, and working out! </h4>
 
