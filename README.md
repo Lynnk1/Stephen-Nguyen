@@ -1,5 +1,5 @@
 <h1>💻 Hi, I'm Stephen! </h1>
-<b>About me: </b> I am currently working in IT as a Help Desk/Desktop Support role for about 2 years now! I am learning to become a Security Analyst with interests in Intrusion Detection and Prevention, Malware Analysis, and Vulnerability Assessment. #BlueTeam
+<b>About me: </b> I am currently working in IT as a Help Desk/Desktop Support role for about 2 years now! I am learning to become a Security Analyst with interests in Intrusion Detection and Prevention, Malware Analysis, and Threat Intelligence. #BlueTeam
 <br> I am a harder worker and I look forward to everyday with a smile. </br>
 
 <h2>👨‍💻 Projects:</h2>
