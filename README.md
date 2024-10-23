@@ -20,7 +20,7 @@
 [linkedin]:https://www.linkedin/SNxLynnk
 
 <h2> 🎮 Hobbies </h2>
-<h4> 🔭 I’m currently working on CompTIA CySA+ </h4>
+<h4> 🔭 I’m currently working on Azure Sentinel Project </h4>
 <h4>🌱 I’m currently learning - Security Frameworks </h4>
 <h4>⚡ Fun fact: I am a huge gamer and I love working out. Doing the best I can to balance between work, studying, gaming, and working out! </h4>
 
